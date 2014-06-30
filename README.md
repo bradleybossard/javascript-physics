@@ -4,6 +4,8 @@ javascript-physics
 [Blob Physics](http://cowboyprogramming.com/2007/01/05/blob-physics/)
 
 Verlet Engines and Tutorials
+----------------------------
+
 [Vertlet collision with impulse preservation](http://codeflow.org/entries/2010/nov/29/verlet-collision-with-impulse-preservation/)
 [SVG Verlet](https://github.com/miketucker/svg-verlet.js)
 
