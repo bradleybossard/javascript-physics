@@ -18,3 +18,11 @@ Verlet Engines and Tutorials
 [Jelly Physics from JellyCar, C++/C#](http://walaber.com/wordpress/?p=85)
 [Jelly Physics in AS3, jelloas3](https://code.google.com/p/jelloas3/)
 
+Interesting Flash projects to look at porting
+--------------------------------------------------
+
+[Fisix Trucks prototype](http://www.gotoandplay.it/_articles/2007/04/fisix_trucks.php)
+
+[Bezier Collision](http://www.gotoandplay.it/_articles/2003/12/bezierCollision.php)
+
+[Skeletal Animations](http://www.gotoandplay.it/_articles/2007/04/skeletal_animation.php)
